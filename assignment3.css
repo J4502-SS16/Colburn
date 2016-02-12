@@ -17,6 +17,7 @@ h1 {
   background-color: #ffcccc;
   padding: 10px 20px;
   text-align: center;
+  font-weight: bolder;
 }
 #main {
   background color: #ffe6ff;
@@ -76,6 +77,7 @@ h1 {
 p {
   color: #837490;
   font-family: Helvetica, Arial, sans-serif;
+  font-weight: bolder;
 }
 
 .photo{
